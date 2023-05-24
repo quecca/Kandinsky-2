@@ -21,7 +21,7 @@ setup(
         #"transformers==4.23.1",
         #"torchvision",
         "omegaconf",
-        "pytorch_lightning",
+        #"pytorch_lightning",
         "einops",
         "sentencepiece",
   
