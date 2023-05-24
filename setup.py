@@ -18,7 +18,7 @@ setup(
         "regex",
         "numpy",
         "blobfile",
-        "transformers==4.23.1",
+        #"transformers==4.23.1",
         "torchvision",
         "omegaconf",
         "pytorch_lightning",
